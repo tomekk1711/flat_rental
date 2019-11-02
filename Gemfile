@@ -26,7 +26,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'twitter-bootstrap-rails', '~> 3.2.0'
 gem "less-rails"
 gem "therubyracer"
-gem 'devise', '~>3.4.1'
+gem 'devise', '~>4.7.1'
 gem 'ckeditor', '~>4.1.1'
 gem 'carrierwave', '~>0.10.0'
 gem 'mini_magick', '~>4.1.0'
