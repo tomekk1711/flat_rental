@@ -28,7 +28,7 @@ gem "less-rails"
 gem "therubyracer"
 gem 'devise', '~>3.4.1'
 gem 'ckeditor', '~>4.1.1'
-gem 'carrierwave', '~>0.10.0'
+gem 'carrierwave', '~>1.3.2'
 gem 'mini_magick', '~>4.1.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
